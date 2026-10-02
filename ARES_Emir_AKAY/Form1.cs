@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Text.Json;
 using static MAVLink;
 
-namespace ARES_Emir
+namespace ARES_Emir_AKAY
 {
     public partial class Form1 : Form
     {
@@ -32,7 +32,7 @@ namespace ARES_Emir
         private byte systemId = 255;
         private byte componentId = 190;
         private byte seq = 0;
-        private string selectedPort = "COM3";
+        private string selectedPort = "COM7";
         private bool heartbeatReceived = false;
         private System.Windows.Forms.Timer connectionCheckTimer;
         private System.Windows.Forms.Timer statusUpdateTimer;

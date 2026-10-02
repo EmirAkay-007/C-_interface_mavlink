@@ -1,4 +1,4 @@
-﻿namespace ARES_Emir
+﻿namespace ARES_Emir_AKAY
 {
     partial class Form1
     {
@@ -759,9 +759,9 @@
             // 
             // panelHarita
             // 
-            panelHarita.Location = new Point(730, 12);
+            panelHarita.Location = new Point(928, 12);
             panelHarita.Name = "panelHarita";
-            panelHarita.Size = new Size(1163, 764);
+            panelHarita.Size = new Size(965, 613);
             panelHarita.TabIndex = 94;
             panelHarita.Paint += panelHarita_Paint;
             // 

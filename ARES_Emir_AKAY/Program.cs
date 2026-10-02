@@ -1,4 +1,4 @@
-namespace ARES_Emir
+namespace ARES_Emir_AKAY
 {
     internal static class Program
     {
